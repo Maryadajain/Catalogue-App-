@@ -1,4 +1,4 @@
-# masterflutter
+# Catalogue Application
 
 A new Flutter project.
 
