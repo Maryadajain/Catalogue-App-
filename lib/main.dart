@@ -30,5 +30,6 @@ class MyApp extends StatelessWidget {
       },
       debugShowCheckedModeBanner: false,
     );
+    // this is some sample code
   }
 }
